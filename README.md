@@ -11,6 +11,7 @@
 <sub>Тут можно найти исходники моего проекта</sub>
 <sub>Примечания</sub>
 ~Смешанные задания~
+  <img src="https://www.gr-oborona.ru/img/oboronaban.gif" width="500"/>
 
 
 
